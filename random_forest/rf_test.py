@@ -1,7 +1,7 @@
 from decision_tree.id3_decision_tree import DecisionTreeID3
 import pandas as pd
 import numpy as np
-from random_forest import RandomForest
+from random_forest.random_forest import RandomForest
 
 
 from sklearn.model_selection import train_test_split

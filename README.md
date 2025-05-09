@@ -4,7 +4,6 @@ Uma implementação didática de Random Forest em Python, sem dependências exte
 
 ## 📖 Sobre
 
-Explique brevemente:
 - **O que é Random Forest?**  
   Conjunto de árvores de decisão treinadas em diferentes _bootstraps_ do mesmo conjunto de dados, com subamostragem de features. Combinação por votação majoritária que reduz variância e melhora robustez.
 - **Por que “from scratch”?**  
